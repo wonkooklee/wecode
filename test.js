@@ -1,4 +1,4 @@
-const getEvenNumbers = (nums) => {
+const getEvenNumbers = () => {
 	const result = [];
 	for(let i=2; i<=50; i+=2) {
 		result.push(i);
